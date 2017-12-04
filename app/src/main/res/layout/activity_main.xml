@@ -23,6 +23,7 @@
         android:textAlignment="center"
         android:layout_centerInParent="true"
         android:hint="Login"
+        android:textColor="@android:color/white"
         android:id="@+id/edt_Login"
         android:background="@drawable/bg_login"
         android:textColorHint="@android:color/white"
@@ -50,6 +51,7 @@
         android:textColor="@android:color/white"
         android:layout_below="@id/edt_Senha"
         android:layout_centerInParent="true"
-        android:layout_marginTop="30dp"/>
+        android:layout_marginTop="30dp"
+        android:id="@+id/btn_login"/>
 
 </RelativeLayout>

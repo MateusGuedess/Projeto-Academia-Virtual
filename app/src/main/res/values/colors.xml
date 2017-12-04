@@ -4,6 +4,10 @@
     <color name="corPrimariadoApp">#FF5722</color>
     <color name="backgroundApp">#212121</color>
     <color name="colorPrimary">#616161</color>
-    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorPrimaryDark">#292b3d</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="greylight">#fafafa</color>
+    <color name="starBlue">#FF5722</color>
+    <color name="endblue">#F4511E</color>
 </resources>
